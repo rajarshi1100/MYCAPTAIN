@@ -1,0 +1,13 @@
+list1=[12,-7,5,64,-14]
+a=0
+while(a<len(list1)):
+  if list1[a]>=0:
+    print(list1[a])
+  a=a+1
+print("list2 is:")
+list2=[12,14,-95,3]
+a=0
+while(a<len(list1)):
+  if list1[a]>=0:
+    print(list1[a])
+  a=a+1
